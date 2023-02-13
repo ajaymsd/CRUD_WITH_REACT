@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Badri",
+      "email": "badri@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Naga",
+      "email": "naga@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Surya",
+      "email": "surya@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Bala",
+      "email": "bala@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Akash",
+      "email": "akash@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Aathi",
+      "email": "aathi@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Vishwa",
+      "email": "vishwa@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Kinley",
+      "email": "kinley@gmail.com"
+    },
+    {
+      "0": {
+        "name": "",
+        "email": ""
+      },
+      "name": "ajay",
+      "email": "ajay@gmail.com",
+      "id": 11
+    }
+  ]
+}
